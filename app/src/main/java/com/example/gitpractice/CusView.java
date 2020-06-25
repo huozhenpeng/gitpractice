@@ -44,6 +44,8 @@ public class CusView extends View {
 
         Log.e("abc","hhhhhhhhhh-->"+dynamicLayout.getHeight());
 
+
+
         dynamicLayout.draw(canvas);
     }
 
