@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
 
                 int firstHeight = dynamicLayout.getHeight();
                 base.clear();
-                base.append("good good std good study,day day upd good study,day day upd good study,day day upd good study,day day upudy,day day up");
+                base.append("good good study good study,day day upd good study,day day upd good study,day day upd good study,day day upudy,day day up");
                 int secondHeight = dynamicLayout.getHeight();
 
                 Log.e("abc",secondHeight+"");
